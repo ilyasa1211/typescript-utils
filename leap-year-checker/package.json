@@ -1,0 +1,15 @@
+{
+  "name": "leap-year-check",
+  "version": "1.0.0",
+  "description": "Check if the given year is a leap year",
+  "main": "dist/mod.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "leap",
+    "year"
+  ],
+  "author": "SiapaLupa",
+  "license": "ISC"
+}

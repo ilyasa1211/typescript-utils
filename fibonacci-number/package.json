@@ -1,0 +1,30 @@
+{
+  "name": "fibonacci-number",
+  "version": "1.0.0",
+  "description": "Get a fibonacci number from nth number",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyasa1211/fibonacci-number.git"
+  },
+  "keywords": [
+    "utility",
+    "tool",
+    "checker",
+    "number",
+    "fibonacci"
+  ],
+  "author": "ilyasa1211",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyasa1211/fibonacci-number/issues"
+  },
+  "homepage": "https://github.com/ilyasa1211/fibonacci-number#readme",
+  "devDependencies": {
+    "typescript": "^5.4.4"
+  }
+}
