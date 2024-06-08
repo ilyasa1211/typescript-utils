@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "typescript": "^5.4.4"
+  },
+  "dependencies": {
+    "is-number": "github:ilyasa1211/is-number"
+  },
+  "name": "number-extractor",
+  "description": "Easily extract number from string text",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "\"Hello\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ilyasa1211/number-extractor.git"
+  },
+  "keywords": [
+    "utility",
+    "tool",
+    "number",
+    "extract",
+    "string"
+  ],
+  "author": "ilyasa1211",
+  "license": "ISC"
+}

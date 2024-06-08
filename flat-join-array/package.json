@@ -1,0 +1,30 @@
+{
+  "name": "flat-join-array",
+  "version": "1.0.0",
+  "description": "Flatting two or more array and then join them with defined separator",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyasa1211/flat-join-array.git"
+  },
+  "keywords": [
+    "tool",
+    "utility",
+    "array",
+    "join",
+    "flat"
+  ],
+  "author": "ilyasa1211",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyasa1211/flat-join-array/issues"
+  },
+  "homepage": "https://github.com/ilyasa1211/flat-join-array#readme",
+  "devDependencies": {
+    "typescript": "^5.4.4"
+  }
+}

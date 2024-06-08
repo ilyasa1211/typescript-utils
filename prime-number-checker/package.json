@@ -1,0 +1,30 @@
+{
+  "name": "is-prime-number",
+  "version": "1.0.0",
+  "description": "Check wether the given input of a number is a prime number or not.",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyasa1211/is-prime-number.git"
+  },
+  "keywords": [
+    "checker",
+    "prime",
+    "number",
+    "tool",
+    "utility"
+  ],
+  "author": "ilyasa1211",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyasa1211/is-prime-number/issues"
+  },
+  "homepage": "https://github.com/ilyasa1211/is-prime-number#readme",
+  "devDependencies": {
+    "typescript": "^5.4.4"
+  }
+}

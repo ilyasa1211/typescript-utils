@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "typescript": "^5.4.4"
+  },
+  "version": "1.0.0",
+  "description": "Check if a string is contains only number",
+  "name": "is-number",
+  "scripts": {
+    "build": "tsc"
+  },
+  "main": "dist/index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ilyasa1211/is-number.git"
+  },
+  "keywords": [
+    "tool",
+    "utility",
+    "checker",
+    "number"
+  ],
+  "author": "ilyasa1211",
+  "license": "ISC",
+  "types": "./dist/index.d.ts",
+  "bugs": {
+    "url": "https://github.com/ilyasa1211/is-number/issues"
+  },
+  "homepage": "https://github.com/ilyasa1211/is-number#readme"
+}

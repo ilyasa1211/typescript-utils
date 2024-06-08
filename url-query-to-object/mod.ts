@@ -1,0 +1,1 @@
+export const queryToObject = (url: string) => Object.fromEntries(new URLSearchParams(new URL(url).search)) 
